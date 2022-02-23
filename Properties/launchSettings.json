@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "PrepTeach": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62931;http://localhost:62932"
+    }
+  }
+}

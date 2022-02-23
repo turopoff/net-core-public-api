@@ -1,0 +1,7 @@
+/.vs
+/bin
+/obj
+/wwwroot/media
+Database.db
+Database.db-shm
+Database.db-wal
