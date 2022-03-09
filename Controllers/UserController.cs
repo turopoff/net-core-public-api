@@ -29,7 +29,7 @@ namespace PrepTeach.Controllers
             bool isExist = user != null;
             response.Data = user;
             response.Message = isExist ? null : "User Is Not Found";
-            response.Status = isExist ? 0 : 1;
+            response.Status = isExist ? 1 : 0;
             return response;
         }
 
